@@ -1,10 +1,27 @@
-# Initialize scores
+
+# ----------------------------------------------  About Project -----------------------------------------
+
+# Project Name: The Sorting Hat
+
+# Project Description: An interactive quiz inspired by the wizarding world. Answer thought-provoking 
+# questions to discover your alignment with Gryffindor, Ravenclaw, Hufflepuff, or Slytherin. 
+# A fun blend of fantasy and logic, perfect for Harry Potter fans and coding enthusiasts!
+
+# ---------------------------------------------  About Me ------------------------------------------------
+
+# Developer: hamzawritescode (Hamza)
+# GitHub Account: https://github.com/hamzawritescode
+
+
+# --------------------------------------------- Project Code ---------------------------------------------
+
+# --------------------------------------------- Initialize scores -----------------------------------------
 gryffindor = 0
 ravenclaw = 0
 hufflepuff = 0
 slytherin = 0
 
-# Question 1
+# ------------------------------------------------- Question 1 ------------------------------------------
 print("Q1) Prefer Dawn or Dusk?")
 print("1) Dawn")
 print("2) Dusk")
@@ -18,7 +35,7 @@ elif q1 == 2:
 else:
     print("Wrong input.")
 
-# Question 2
+#  ---------------------------------------------- Question 2 ---------------------------------------------
 print("Q2) When I'm dead, I want people to remember me as:")
 print("1) The Good")
 print("2) The Great")
@@ -37,7 +54,7 @@ elif q2 == 4:
 else:
     print("Wrong input.")
 
-# Question 3
+# --------------------------------------------- Question 3 ------------------------------------------------
 print("Q3) What kind of instrument delights your ear the most?")
 print("1) The violin")
 print("2) The trumpet")
@@ -56,9 +73,12 @@ elif q3 == 4:
 else:
     print("Wrong input.")
 
-# Print final scores
+# ----------------------------------------- Print final scores -------------------------------------------
 print("\nFinal Scores:")
 print(f"Gryffindor: {gryffindor}")
 print(f"Ravenclaw: {ravenclaw}")
 print(f"Hufflepuff: {hufflepuff}")
 print(f"Slytherin: {slytherin}")
+
+
+# -------------------------------   Project Code Ended -----------------------------------------------
