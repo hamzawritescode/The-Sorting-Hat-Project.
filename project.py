@@ -11,6 +11,8 @@
 
 # Developer: hamzawritescode (Hamza)
 # GitHub Account: https://github.com/hamzawritescode
+# GitHub Repo Link: https://github.com/hamzawritescode/The-Sorting-Hat-Project
+# Codedex Build Link: https://www.codedex.io/@HamzaWritesCode/build/the-sorting-hat-project
 
 
 # --------------------------------------------- Project Code ---------------------------------------------
